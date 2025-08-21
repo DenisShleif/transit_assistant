@@ -1,7 +1,14 @@
 # transit_assistant
 
+## 2025-08-21
+- App can retrieve next event that has a location
+- App retrieves various travel times and weather information
+- Goal for tomorrow:
+ - is to add in the buisness logic of deciding what travel times to use
+ - How do we set parameters for cutoffs (ex I am willing to walk if its less than 20 minutes)
 
 
+Icloud link: https://www.icloud.com/shortcuts/e7a44955a833443b9065e48a89a15a27
 
 
 ## Initial Shortcut Outline:
